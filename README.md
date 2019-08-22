@@ -14,4 +14,4 @@ npm install
 npm start
 ```
 
-![alt text](img/git_animation/reactWeather.gif)
+![alt text](/src/img/git_animation/reactWeather.gif)
